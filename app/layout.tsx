@@ -14,9 +14,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Vercel x DeepInfra Chatbot",
+  title: "RJB'S Third Eye",
   description:
-    "This starter project uses DeepInfra with the AI SDK via the Vercel Marketplace",
+    "Explore powerful dream insights with our AI-based interpretation app. Perfect for empaths, spiritual seekers, and anyone curious about the messages hidden in their sleep.",
 };
 
 export default function RootLayout({
