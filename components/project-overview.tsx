@@ -7,7 +7,7 @@ export const ProjectOverview = () => {
         Welcome to the Gate of Dreams. Your subconscious is speaking. This is
         your sanctuary to record, reflect, and receive meaning from the hidden
         realms. Begin by sharing your most recent dream. No matter how strange,
-        confusing, or fragmented, everything carries light. 🪶 Let’s begin the
+        confusing, or fragmented, everything carries light. 🪶 Let us begin the
         decoding.
       </p>
     </div>
